@@ -2,11 +2,17 @@
   <footer id="contact" class="footer-section">
     <div class="container">
       <h2>Давайте создадим что-то крутое</h2>
-      <p class="footer-sub">Официальное сотрудничество по договору. Предоставление всех закрывающих документов для бизнеса.</p>
+      <p class="footer-sub">Оказание услуг в сегменте B2B на основании Договора возмездного оказания услуг.</p>
       
       <div class="social-links">
-        <a href="#" class="social-item">Telegram</a>
-        <a href="#" class="social-item">WhatsApp</a>
+         <a href="https://t.me/kzNK31" 
+         class="social-item" 
+         target="_blank" 
+         rel="noopener noreferrer"
+  >
+    Telegram
+  </a>
+        
         
       </div>
       

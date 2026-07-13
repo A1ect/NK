@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 
-// Импортируем наши новые компоненты
+// Импортируем компоненты
 import HeroSection from './components/HeroSection.vue'
 import ServicesSection from './components/ServicesSection.vue'
 import CasesSection from './components/CasesSection.vue'
